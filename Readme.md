@@ -5,7 +5,9 @@
 * 說明:
 
     * workbench.colorTheme 這可以設定VSCODE畫面的配色
-    * 
+    * files.eol 調整換行符號。LF: \n, CRLF: \r\n
+
+        *舊檔案不會生效，需要手動修改
 
 * 使用方式:
 

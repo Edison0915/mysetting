@@ -1,5 +1,6 @@
 {
     "workbench.colorTheme": "Abyss",
+    "files.eol": "\n",
     "[yaml]": {
         "editor.detectIndentation": false,
         "editor.insertSpaces": true,
