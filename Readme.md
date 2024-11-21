@@ -15,6 +15,8 @@
 
             * 預設路徑為 C:\Users\yourusername\AppData\Roaming\Code\User\settings.json
 
+        * 
+
     * 工作區域設定(以下為步驟順序)
 
         * 建立一個名為".vscode"的資料夾
